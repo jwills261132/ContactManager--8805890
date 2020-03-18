@@ -14,6 +14,7 @@ namespace ContactManager8805890
 	}
 }
 private int ContactFname;
+
 public int contactFname //property
 
 {
